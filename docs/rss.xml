@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+  <title>Matthew&#x27;s Musings</title>
+  <link>https://essays.mprahl.com/</link>
+  <description>A collection of essays, personal reflections, notes, and books about what it means to be human in the age of AI, musings on faith and early Christianity, general contemplations, and whatever else I&#x27;m interested in at the moment.</description>
+  <language>en</language>
+  <lastBuildDate>Wed, 15 Jul 2026 00:00:00 GMT</lastBuildDate>
+  <atom:link href="https://essays.mprahl.com/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+    <title>God&#x27;s Kingdom Already Present</title>
+    <link>https://essays.mprahl.com/essays/kingdom-of-god-essay.html</link>
+    <guid isPermaLink="true">https://essays.mprahl.com/essays/kingdom-of-god-essay.html</guid>
+    <pubDate>Sat, 04 Jul 2026 00:00:00 GMT</pubDate>
+    <description>A historical argument that Jesus proclaimed God&#x27;s kingdom primarily as a present, collaborative, nonviolent transformation rather than an imminent apocalypse.</description>
+  </item>
+    <item>
+    <title>God&#x27;s Kingdom Already Present (Short Version)</title>
+    <link>https://essays.mprahl.com/essays/kingdom-of-god-short-essay.html</link>
+    <guid isPermaLink="true">https://essays.mprahl.com/essays/kingdom-of-god-short-essay.html</guid>
+    <pubDate>Sat, 04 Jul 2026 00:00:00 GMT</pubDate>
+    <description>A concise historical case that Jesus proclaimed God&#x27;s kingdom as a present transformation centered on healing, shared meals, social reversal, and justice.</description>
+  </item>
+    <item>
+    <title>Process Theology Quiz</title>
+    <link>https://essays.mprahl.com/essays/process-theology-quiz.html</link>
+    <guid isPermaLink="true">https://essays.mprahl.com/essays/process-theology-quiz.html</guid>
+    <pubDate>Fri, 05 Jun 2026 00:00:00 GMT</pubDate>
+    <description>An active-recall quiz on process theology, including divine dipolarity, actual occasions, prehension, freedom, evil, immortality, and religious language.</description>
+  </item>
+    <item>
+    <title>How to Read Cobb and Griffin&#x27;s Process Theology as a Beginner</title>
+    <link>https://essays.mprahl.com/essays/how-to-read-cobb-process-theology.html</link>
+    <guid isPermaLink="true">https://essays.mprahl.com/essays/how-to-read-cobb-process-theology.html</guid>
+    <pubDate>Wed, 27 May 2026 00:00:00 GMT</pubDate>
+    <description>A beginner&#x27;s guide to the Whiteheadian concepts needed to read Cobb and Griffin&#x27;s Process Theology, explained in concrete and accessible language.</description>
+  </item>
+  </channel>
+</rss>
